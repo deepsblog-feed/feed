@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>deep.liveblog365.com</title>
+		<link><![CDATA[https://deep.liveblog365.com/]]></link>
+		<description>deep.liveblog365.com</description>
+		<language>en</language>
+		<pubDate>Sun, 03 Aug 2025 14:01:00 +0000</pubDate>
+
+		<item>
+			<guid isPermaLink="false">51</guid>
+			<title>Copyright</title>
+			<link>https://deep.liveblog365.com/en/index-en.html?post=51</link>
+			<pubDate>Sun, 03 Aug 2025 17:01:30 +0300</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">50</guid>
+			<title>SparseAttention</title>
+			<link>https://deep.liveblog365.com/en/index-en.html?post=50</link>
+			<pubDate>Sun, 03 Aug 2025 17:01:29 +0300</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">https://deep.liveblog365.com/en/index-en.html</guid>
+			<title>Index En</title>
+			<link>https://deep.liveblog365.com/en/index-en.html</link>
+			<pubDate>Sun, 03 Aug 2025 17:01:28 +0300</pubDate>
+		</item>
+	</channel>
+</rss>
