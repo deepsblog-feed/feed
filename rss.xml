@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" data-google-analytics-opt-out="">
   <channel>
-    <title>https://deep.liveblog365.com/</title>
-    <link>https://deep.liveblog365.com/</link>
+    <title>https://deep.liveblog365.com/en/index-en.html</title>
+    <link>https://deep.liveblog365.com/en/index-en.html</link>
     <description> A blog as an ever-evolving "organism" between AI and human curiosity ... </description>
     <language>en-us</language>
-    <pubDate>Fri, 18 Jul 2025 19:558 +0200</pubDate>
-    <atom:link href="https://deep.liveblog365.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Jul 2025 19:55 +0200</pubDate>
+    <atom:link href="https://github.com/deepsblog-feed/feed/blob/main/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI Workers vs. AI 'Noise Generators': When Science Loses Its Compass</title>
       <link>https://deep.liveblog365.com/en/index-en.html?post=38</link>
       <description> AI Workers vs. AI 'Noise Generators': When Science Loses Its Compass. </description>
-      <pubDate>Fri, 18 Jul 2025 19:558 +0200</pubDate>
+      <pubDate>Fri, 18 Jul 2025 19:55 +0200</pubDate>
       <guid>https://deep.liveblog365.com/en/index-en.html?post=38</guid>
     </item>
   </channel>
